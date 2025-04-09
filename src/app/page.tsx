@@ -35,7 +35,7 @@ export default function Home() {
           </div>
           <div className="text-xs text-[#a9a9a9] text-center space-y-4 mb-8">
             <p>
-              By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+              By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms
             </p>
             <p>Fametonic 2025 ©All Rights Reserved.</p>
           </div>
@@ -61,7 +61,7 @@ export default function Home() {
       <footer className="container mx-auto px-4 py-6 text-xs text-[#a9a9a9] hidden">
         <p>Fametonic 2025 ©All Rights Reserved.</p>
         <p className="mb-2 text-xs text-[#a9a9a9]">
-          By clicking "Get Started", you agree with Terms and Conditions, Privacy Policy, Subscription Terms
+          By clicking &quot;Get Started&quot;, you agree with Terms and Conditions, Privacy Policy, Subscription Terms
         </p>
       </footer>
     </div>
